@@ -7,14 +7,47 @@
 
 # Table of Contents
 
-- [Information](#information)
+- [General Information](#general-information)
 - [News](#news)
+- [Clients](#clients)
+- [Trackers](#trackers)
+    - [Public](#public)
+    - [Private](#private)
+- [Projects](#projects)
 - [Contributing](#contributing)
 - [License](#license)
 
-# Information
+# General Information
+
+- [/r/Trackers](https://www.reddit.com/r/trackers/)
+- [/r/Torrents](https://www.reddit.com/r/torrents/)
+
+# Clients
+
+- [Deluge](https://deluge-torrent.org/) - Windows, Mac, Linux
+- [µTorrent](https://www.utorrent.com/intl/nl/) - Windows, Mac, Linux, Android
+- [Transmission](https://transmissionbt.com/) - Windows, Mac, Linux
+- [qBittorrent](https://www.qbittorrent.org/) - Windows, Mac, Linux
+
+
+# Trackers
+
+## Public
+
+...
+
+## Private
+
+...
+
+# Projects
+
+...
 
 # News
+
+- [TorrentFreak](https://torrentfreak.com/)
+- [/r/Piracy](https://www.reddit.com/r/piracy/)
 
 # Contributing
 
