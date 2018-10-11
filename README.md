@@ -10,7 +10,7 @@
 - [General Information](#general-information)
 - [News](#news)
 - [Clients](#clients)
-- [Trackers](#trackers)
+- [Torrent Sites](#torrent-sites)
     - [Public](#public)
     - [Private](#private)
 - [Projects](#projects)
@@ -30,11 +30,13 @@
 - [qBittorrent](https://www.qbittorrent.org/) - Windows, Mac, Linux
 
 
-# Trackers
+# Torrent Sites
 
 ## Public
 
-...
+- [The Pirate Bay]
+- [RARBG]
+- 
 
 ## Private
 
@@ -42,7 +44,8 @@
 
 # Projects
 
-...
+- [Public BitTorrent Trackers](https://github.com/ngosang/trackerslist)
+- [Torrent Tracker Platforms](https://github.com/HDVinnie/Torrent-Tracker-Scripts)
 
 # News
 
