@@ -34,8 +34,8 @@
 
 ## Public
 
-- [The Pirate Bay]
-- [RARBG]
+- [The Pirate Bay](https://thepiratebay.org/) - [Proxy](https://piratebay.click/)
+- [RARBG](https://rarbg.to/)
 - 
 
 ## Private
