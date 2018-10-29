@@ -36,11 +36,18 @@
 
 - [The Pirate Bay](https://thepiratebay.org/) - [Proxy](https://piratebay.click/)
 - [RARBG](https://rarbg.to/)
-- 
+- [1337](https://1337x.to/)
+- [Torrentz2](https://torrentz2.eu/) - Search engine
+- [YTS](https://yts.am/)
+- [EZTV](https://eztv.re/)
+- [LimeTorrents](https://www.limetorrents.info/)
+- [Nyaa](https://nyaa.si/)
+- [Torrents.me](https://torrents.me/)
+- [Zooqle](https://zooqle.com/)
 
 ## Private
 
-...
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) - Containing all private trackers and how to join them
 
 # Projects
 
