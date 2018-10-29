@@ -1,9 +1,13 @@
-# Awesome Torrent Resources
+<p align="center">
+    <img src="https://i.postimg.cc/G3PqzzvM/Screen-Shot-2018-10-29-at-11-59-38-AM.png" alt="Banner">
+</p>
 
-> A curated list of awesome resources about BitTorrent, trackers and the peer-to-peer community.
+<hr>
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![license](https://img.shields.io/badge/License-CC0--1.0-green.svg)](https://github.com/stedebonnet/awesome-torrent-resources/blob/master/LICENSE)
+<p align="center">
+<a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg"/></a> 
+<a href="https://github.com/stedebonnet/awesome-torrent-resources/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-green.svg"/></a>
+</p>
 
 # Table of Contents
 
