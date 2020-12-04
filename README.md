@@ -57,6 +57,7 @@
 
 - [Public BitTorrent Trackers](https://github.com/ngosang/trackerslist)
 - [Torrent Tracker Platforms](https://github.com/HDVinnie/Torrent-Tracker-Scripts)
+- [Torrent🧲Parts](https://torrent.parts/) - Inspect and edit what's in your Torrent file or Magnet link
 
 # News
 
