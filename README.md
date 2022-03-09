@@ -53,6 +53,11 @@
 
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/) - Containing all private trackers and how to join them
 
+# Tools
+
+- [torrentfile](https://github.com/alexpdev/torrentfile) - Command line tool for viewing, editing, creating, and checking torrent files.
+- [mktorrent](https://github.com/pobrn/mktorrent) - A simple command line utility to create Bittorrent metainfo files
+
 # Projects
 
 - [Public BitTorrent Trackers](https://github.com/ngosang/trackerslist)
